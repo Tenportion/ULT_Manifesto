@@ -15,6 +15,9 @@ In short, if humankind is not united, we will eventually be ruined by civil war.
 [正文](./ULT_Manifesto.md)  
 [English translation](./ULT_Manifesto_en.md)
 
+master分支很久才会更新一次，最新未确定内容请看[develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop)分支  
+Branch master need a long time to be updated. Please see branch [develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop) for the latest undetermined content.  
+
 本文分为三个部分，团结、维稳、优化  
 This book is divided into three parts, unity, stability maintenance and optimization.  
 **团结**是必要的，不然一定会毁于内战  
