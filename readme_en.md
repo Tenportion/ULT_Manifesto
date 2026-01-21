@@ -1,4 +1,4 @@
-_# ULT Manifesto Preface
+# ULT Manifesto Preface
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
