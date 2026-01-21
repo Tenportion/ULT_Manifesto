@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
-In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory.  
+In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
+Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.
 This book will elaborate on this theory.  
 
 In short, if humankind is not united, we will eventually be ruined by civil war.  
