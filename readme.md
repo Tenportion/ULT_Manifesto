@@ -1,5 +1,5 @@
 # 联合同盟宣言序言
-![](https://img.shields.io/badge/translated-0%-orange)  
+![](https://img.shields.io/badge/translated-0%25-orange)  
 在我上小学的时候，我的梦想是成为一名科学家造福人类，让人们都过上美好生活  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 但到我初中时，感觉当科学家并不能实现此目的  
