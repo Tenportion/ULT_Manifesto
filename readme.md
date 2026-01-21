@@ -10,7 +10,7 @@
 
 简言之，人类若不团结统一终将毁于内战  
 
-## [正文](./ULT_Manifesto.md)  
+**[正文链接](./ULT_Manifesto.md)**
 
 master分支很久才会更新一次，最新未确定内容请看[develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop)分支  
 

@@ -1,4 +1,4 @@
-# ULT Manifesto Preface
+_# ULT Manifesto Preface
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
@@ -7,7 +7,7 @@ This book will elaborate on this theory.
 
 In short, if humankind is not united, we will eventually be ruined by civil war.  
 
-## [main text](./ULT_Manifesto_en.md)  
+**[link to main text](./ULT_Manifesto_en.md)**
 
 Branch master need a long time to be updated. Please see branch [develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop) for the latest undetermined content.  
 
