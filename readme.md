@@ -30,4 +30,8 @@ Therefore, as long as you have roughly read and approved the **Unity** part of t
 联合同盟不是一个国家，也不是一个党派，而是一个松散而自由的思想团体  
 ULT is not a country or a party, but a loose and libre ideological group.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)  
+
 <a href="https://github.com/Tenportion/ULT_Manifesto">ULT_Manifesto</a> © 2026 by <a href="https://github.com/Tenportion">杨文广</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
