@@ -13,7 +13,7 @@ This book will elaborate on this theory.
 In short, if humankind is not united, we will eventually be ruined by civil war.  
 
 [正文](./ULT_Manifesto.md)  
-[English translation](./ULT_Manifesto_en.md)
+[English translation](./ULT_Manifesto_en.md)  
 
 master分支很久才会更新一次，最新未确定内容请看[develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop)分支  
 Branch master need a long time to be updated. Please see branch [develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop) for the latest undetermined content.  
@@ -32,7 +32,14 @@ Therefore, the **Unity** part of this book is the core point; the **Stability Ma
 因此只要大致看过并认可本文的**团结**部分，就可以骄傲地自认为是联合同盟的一员  
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
 联合同盟不是一个国家，也不是一个党派，而是一个松散而自由的思想团体  
-ULT is not a country or a party, but a loose and libre ideological group.
+ULT is not a country or a party, but a loose and libre ideological group.  
+
+## Issues
+如果遇到一下情况，请给我提issue:  
+1.内容错误需要更正  
+2.文中有描述不清晰的概念  
+3.持有不同观点，要进行反驳或者讨论  
+4.想要提建议  
 
 ## Star History
 
