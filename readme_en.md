@@ -19,6 +19,7 @@ Therefore, the **Unity** part of this book is the core point; the **Stability Ma
 
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
 ULT is not a country or a party, but a loose and libre ideological group.  
+If you are one of us, please do not hesitate to star this repository and positively spread the theory.  
 
 ## Issues
 If you encounter any of the following, please send me an issue:  
