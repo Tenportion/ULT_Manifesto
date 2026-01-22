@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
-In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory.  
+In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
+Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.
 This book will elaborate on this theory.  
 
 In short, if humankind is not united, we will eventually be ruined by civil war.  
@@ -14,10 +15,12 @@ Branch master need a long time to be updated. Please see branch [develop](https:
 This book is divided into three parts, unity, stability maintenance and optimization.  
 **Unity** is indispensable, otherwise we will surely be ruined by civil war.  
 **Stability maintenance** is also necessary, otherwise the results of unity will also be destroyed, but the priority is slightly lower.  
+**Optimization** is the road for mankind to a better life, which is the icing on the cake.  
 Therefore, the **Unity** part of this book is the core point; the **Stability Maintenance** part is an important goal, and its methods are for reference only; the **Optimization** part is more just suggestions.  
 
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
 ULT is not a country or a party, but a loose and libre ideological group.  
+If you are one of us, please do not hesitate to star this repository and positively spread the theory.  
 
 ## Issues
 If you encounter any of the following, please send me an issue:  
