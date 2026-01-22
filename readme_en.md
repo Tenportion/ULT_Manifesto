@@ -15,6 +15,7 @@ Branch master need a long time to be updated. Please see branch [develop](https:
 This book is divided into three parts, unity, stability maintenance and optimization.  
 **Unity** is indispensable, otherwise we will surely be ruined by civil war.  
 **Stability maintenance** is also necessary, otherwise the results of unity will also be destroyed, but the priority is slightly lower.  
+**Optimization** is the road for mankind to a better life, which is the icing on the cake.  
 Therefore, the **Unity** part of this book is the core point; the **Stability Maintenance** part is an important goal, and its methods are for reference only; the **Optimization** part is more just suggestions.  
 
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
