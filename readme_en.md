@@ -28,7 +28,8 @@ If you encounter any of the following, please send me an issue:
 1.Content errors need to be corrected  
 2.There are concepts that are not clearly described in the book  
 3.Holding a different viewpoint, to be refuted or discussed  
-4.make suggestions  
+4.Making suggestions  
+5.Content infringement  
 
 ## Star History
 
