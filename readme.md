@@ -1,7 +1,7 @@
 # 联合同盟宣言序言
 ![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)  
-## 其他语言
+## 其他语言(Other Language)
 * [English](./readme_en.md)  
 
 在我上小学的时候，我的梦想是成为一名科学家造福人类，让人们都过上美好生活  
