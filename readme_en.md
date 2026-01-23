@@ -1,4 +1,5 @@
 # ULT Manifesto Preface
+![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
@@ -27,7 +28,8 @@ If you encounter any of the following, please send me an issue:
 1.Content errors need to be corrected  
 2.There are concepts that are not clearly described in the book  
 3.Holding a different viewpoint, to be refuted or discussed  
-4.make suggestions  
+4.Making suggestions  
+5.Content infringement  
 
 ## Star History
 

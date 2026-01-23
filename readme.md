@@ -1,4 +1,5 @@
 # 联合同盟宣言序言
+![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 ## 其他语言
 * [English](./readme_en.md)  
@@ -31,6 +32,7 @@ master分支很久才会更新一次，最新未确定内容请看[develop](http
 2.文中有描述不清晰的概念  
 3.持有不同观点，要进行反驳或者讨论  
 4.想要提建议  
+5.内容侵权  
 
 ## Star History
 
