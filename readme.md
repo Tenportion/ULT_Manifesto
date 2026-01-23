@@ -1,4 +1,5 @@
 # 联合同盟宣言序言
+![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)  
 ## 其他语言
 * [English](./readme_en.md)  
