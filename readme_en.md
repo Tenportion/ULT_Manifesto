@@ -7,7 +7,7 @@ In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At th
 Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.
 This book will elaborate on this theory.
 
-In short, if humankind is not united, we will eventually be ruined by civil war.
+In short, **if humankind is not united, we will eventually be ruined by civil war.**
 
 **[link to main text](./ULT_Manifesto_en.md)**
 
