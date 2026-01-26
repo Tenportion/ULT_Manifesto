@@ -24,6 +24,8 @@ ULT is not a country or a party, but a loose and libre ideological group.
 If you are one of us, please do not hesitate to star this repository and positively spread the theory.
 
 ## Issues
+I am not from a social science background, please do not ask me according to the standards of professional researchers.  
+My writing is not good, and I lack the ability to use words and make sentences, so please forgive me.  
 If you encounter any of the following, please send me an issue:
 1. Content errors need to be corrected
 2. There are concepts that are not clearly described in the book
