@@ -1,6 +1,7 @@
 # ULT Manifesto Preface
 ![](https://img.shields.io/badge/AI-unused-green)
-![](https://img.shields.io/badge/translated-0%25-orange)  
+![](https://img.shields.io/badge/translated-0%25-orange)
+[![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)  
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
 In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
