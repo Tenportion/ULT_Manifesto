@@ -4,6 +4,11 @@
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## 其他语言(Other Language)
 * [English](./readme_en.md)
+## 其他平台
+[![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
+[![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
+[![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
+[![](https://img.shields.io/badge/GitCode-repo-orange?logo=GitCode)](https://gitcode.com/Tenportion/ULT_Manifesto)
 
 在我上小学的时候，我的梦想是成为一名科学家造福人类，让人们都过上美好生活  
 但到我初中时，感觉当科学家并不能实现此目的  
@@ -15,7 +20,7 @@
 
 **[正文链接](./ULT_Manifesto.md)**
 
-master分支很久才会更新一次，最新未确定内容请看[develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop)分支
+master分支很久才会更新一次，最新未确定内容请看develop分支
 
 本文分为三个部分，团结、维稳、优化  
 **团结**是必要的，不然一定会毁于内战  
@@ -27,7 +32,7 @@ master分支很久才会更新一次，最新未确定内容请看[develop](http
 联合同盟不是一个国家，也不是一个党派，而是一个松散而自由的思想团体  
 如果你是我们的一员，请不吝给我点一个star并积极传播这一理论
 
-## Issues
+## Issues(议题)
 本人非社会科学出身，请不要按照专业研究者的标准来要求我  
 本人文笔不好，遣词造句能力有所欠缺，敬请谅解  
 如果遇到一下情况，请给我提issue:
@@ -38,7 +43,7 @@ master分支很久才会更新一次，最新未确定内容请看[develop](http
 5. 内容侵权
 6. 对于内容有疑问
 
-## Star History
+## GitHub Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 

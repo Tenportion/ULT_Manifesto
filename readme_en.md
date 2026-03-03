@@ -1,7 +1,13 @@
 # ULT Manifesto Preface
 ![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)
-[![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)  
+[![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
+## Other Platform
+[![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
+[![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
+[![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
+[![](https://img.shields.io/badge/GitCode-repo-orange?logo=GitCode)](https://gitcode.com/Tenportion/ULT_Manifesto)
+
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
 In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
@@ -12,7 +18,7 @@ In short, **if humankind is not united, we will eventually be ruined by civil wa
 
 **[link to main text](./ULT_Manifesto_en.md)**
 
-Branch master need a long time to be updated. Please see branch [develop](https://github.com/Tenportion/ULT_Manifesto/tree/develop) for the latest undetermined content.
+Branch master need a long time to be updated. Please see branch develop for the latest undetermined content.
 
 This book is divided into three parts, unity, stability maintenance and optimization.  
 **Unity** is indispensable, otherwise we will surely be ruined by civil war.  
@@ -35,7 +41,7 @@ If you encounter any of the following, please send me an issue:
 5. Content infringement
 6. Have questions about the content
 
-## Star History
+## GitHub Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 
