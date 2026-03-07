@@ -6,7 +6,6 @@
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
-[![](https://img.shields.io/badge/GitCode-repo-orange?logo=GitCode)](https://gitcode.com/Tenportion/ULT_Manifesto)
 
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
