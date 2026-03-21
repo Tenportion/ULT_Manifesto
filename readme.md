@@ -1,6 +1,6 @@
 # 联合同盟宣言序言
-![](https://img.shields.io/badge/AI-unused-green)
-![](https://img.shields.io/badge/translated-0%25-orange)
+[![](https://img.shields.io/badge/AI-unused-green)]()
+[![](https://img.shields.io/badge/translated-0%25-orange)]()
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## 其他语言(Other Language)
 * [English](./readme_en.md)
@@ -8,7 +8,6 @@
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
-[![](https://img.shields.io/badge/GitCode-repo-orange?logo=GitCode)](https://gitcode.com/Tenportion/ULT_Manifesto)
 
 在我上小学的时候，我的梦想是成为一名科学家造福人类，让人们都过上美好生活  
 但到我初中时，感觉当科学家并不能实现此目的  
