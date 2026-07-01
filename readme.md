@@ -5,9 +5,13 @@
 ## 其他语言(Other Language)
 * [English](./readme_en.md)
 ## 其他平台
+### 宣言仓库
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
+### 社区
+[![](https://img.shields.io/badge/QQ群-1033560594-blue?logo=QQ)](https://qm.qq.com/q/ZSm2MEIeQg)
+[![](https://img.shields.io/badge/联合同盟-吧-blue?logo=baidu)](https://tieba.baidu.com/f?kw=%E8%81%94%E5%90%88%E5%90%8C%E7%9B%9F)
 
 在我上小学的时候，我的梦想是成为一名科学家造福人类，让人们都过上美好生活  
 但到我初中时，感觉当科学家并不能实现此目的  
