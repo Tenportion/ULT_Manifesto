@@ -2,10 +2,14 @@
 ![](https://img.shields.io/badge/AI-unused-green)
 ![](https://img.shields.io/badge/translated-0%25-orange)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
-## Other Platform
+## Other Platforms
+### Manifesto Repositories
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/Codeberg-repo-blue?logo=Codeberg)](https://codeberg.org/Tenportion/ULT_Manifesto)
 [![](https://img.shields.io/badge/SourceForge-repo-blue?logo=SourceForge)](https://sourceforge.net/p/ult-manifesto/code)
+### Communities
+[![](https://img.shields.io/badge/QQ%20Group-1033560594-blue?logo=QQ)](https://qm.qq.com/q/ZSm2MEIeQg)
+[![](https://img.shields.io/badge/ULT-Bar-blue?logo=baidu)](https://tieba.baidu.com/f?kw=%E8%81%94%E5%90%88%E5%90%8C%E7%9B%9F)
 
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
