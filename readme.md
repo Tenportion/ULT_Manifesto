@@ -46,8 +46,4 @@ master分支很久才会更新一次，最新未确定内容请看develop分支
 5. 内容侵权
 6. 对于内容有疑问
 
-## GitHub Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
-
 [ULT_Manifesto](https://github.com/Tenportion/ULT_Manifesto) © 2026 by [杨文广](https://github.com/Tenportion) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="14" width="14">
