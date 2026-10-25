@@ -34,7 +34,6 @@ master分支很久才会更新一次，最新未确定内容请看develop分支
 因此只要大致看过并认可本文的**团结**部分，就可以骄傲地自认为是联合同盟的一员  
 联合同盟不是一个国家，也不是一个党派，而是一个松散而自由的思想团体  
 如果你是我们的一员，请不吝给我点一个star并积极传播这一理论
-
 ## Issues(议题)
 本人非社会科学出身，请不要按照专业研究者的标准来要求我  
 本人文笔不好，遣词造句能力有所欠缺，敬请谅解  
@@ -45,5 +44,7 @@ master分支很久才会更新一次，最新未确定内容请看develop分支
 4. 想要提建议(不限于理论，也包括行文)
 5. 内容侵权
 6. 对于内容有疑问
+## GitHub Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 
 [ULT_Manifesto](https://github.com/Tenportion/ULT_Manifesto) © 2026 by [杨文广](https://github.com/Tenportion) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="14" width="14">

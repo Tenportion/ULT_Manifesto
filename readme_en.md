@@ -32,7 +32,6 @@ Therefore, the **Unity** part of this book is the core point; the **Stability Ma
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
 ULT is not a country or a party, but a loose and libre ideological group.  
 If you are one of us, please do not hesitate to star this repository and positively spread the theory.
-
 ## Issues
 I am not from a social science background, please do not ask me according to the standards of professional researchers.  
 My writing is not good, and I lack the ability to use words and make sentences, so please forgive me.  
@@ -43,5 +42,7 @@ If you encounter any of the following, please send me an issue:
 4. Making suggestions(Not limited to theory, but also writing)
 5. Content infringement
 6. Have questions about the content
+## GitHub Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 
 [ULT_Manifesto](https://github.com/Tenportion/ULT_Manifesto) © 2026 by [杨文广](https://github.com/Tenportion) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" height="14" width="14"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="14" width="14">
