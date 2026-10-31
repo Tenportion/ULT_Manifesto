@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/AI-unused-green)](#ult-manifesto-preface)
 [![](https://img.shields.io/badge/translated-4.24%25-yellow)](#ult-manifesto-preface)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
+## Other Languages
+* [简体中文](./readme.md)
 ## Other Platforms
 ### Manifesto Repositories
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
