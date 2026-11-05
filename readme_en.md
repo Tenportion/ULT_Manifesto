@@ -1,7 +1,9 @@
 # ULT Manifesto Preface
 [![](https://img.shields.io/badge/AI-unused-green)](#ult-manifesto-preface)
-[![](https://img.shields.io/badge/translated-0%25-orange)](#ult-manifesto-preface)
+[![](https://img.shields.io/badge/translated-4.24%25-yellow)](#ult-manifesto-preface)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
+## Other Languages
+* [简体中文](./readme.md)
 ## Other Platforms
 ### Manifesto Repositories
 [![](https://img.shields.io/badge/GitHub-repo-blue?logo=GitHub)](https://github.com/Tenportion/ULT_Manifesto)
@@ -14,7 +16,7 @@
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
 In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
-Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.
+Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.  
 This book will elaborate on this theory.
 
 In short, **if humankind is not united, we will eventually be ruined by civil war.**
