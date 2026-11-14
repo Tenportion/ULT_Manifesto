@@ -1,6 +1,6 @@
 # ULT Manifesto Preface
 [![](https://img.shields.io/badge/AI-unused-green)](#ult-manifesto-preface)
-[![](https://img.shields.io/badge/translated-13.81%25-yellow)](#ult-manifesto-preface)
+[![](https://img.shields.io/badge/translated-14.87%25-yellow)](#ult-manifesto-preface)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## Other Languages
 * [简体中文](./readme.md)
