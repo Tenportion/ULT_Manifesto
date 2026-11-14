@@ -34,6 +34,31 @@ Such as the [Soviet nuclear submarine in the Cuban missile crisis](#a1soviet-nuc
 A more convincing example is that the emergence of human beings from animals is itself a small probability event of evolution, and it is obviously unrealistic to expect animal society to go to the inevitable end of those theories; the fact that Earth became a place capable of sustaining life is an even small probability event.
 
 Of course, I do not deny that in specific historical periods, there may be many high probability regularities, but most of those regularities are effective only during stable development stages. When the development of these regularities approaches its limits, society becomes unstable, giving rise to a multitude of low probability paths—each of which can drive history toward a radically different course. **It is precisely these low probability events that drive history to leap into different periods, thereby manifesting different high probability regularities**. Transitional periods of change are often shorter than periods of stable historical development, which is why it is all too easy to fall into the illusion of inevitable trend.
+#### 1.1.3.Strong Countries Bully Weak Countries
+From ancient times to the present, strong countries have bullied weak countries, annexing their territory or plundering their interests.
+
+There is an old saying in China that summarizes the historical regularity of a certain  period: *The general trend of the world is that after a long period of division, there will inevitably be unification, and after a long period of c, there will inevitably be division.*  
+It means that, given enough time, China’s various historical dynasties would inevitably cycle between periods of unified imperial rule and eras of fragmentation among competing warlords.  
+After a long period of division, there will inevitably be unification. This fully illustrates the principle that strong countries bully weak countries.  
+After a long period of unification, there will inevitably be division. This implies that no dynasty throughout history has escaped the cycle of history and has ultimately fragmented: This is why it is necessary to do `stability maintenance` after `unity`.  
+The reason why the unification is limited to China is that ancient science and technology are not developed enough, and the lack of administrative ability and communication ability makes expansion limited. For example, the Mongolian Empire and Alexander Empire eventually split up, since they took too long for their decrees to spread from the capital to the frontier.
+
+The world outside China is also full of wars between countries, and finally there are several watersheds between war and peace: World War I, World War II, nuclear deterrence system.  
+Before World War I, the rulers of various countries considered whether to wage war based solely on `how much benefit could be gained`, `whether they could win` and `how much the war would cost`.  
+World War I caused many European monarchs to lose their titles and imposed heavy costs on numerous countries; consequently, the League of Nations was established.  
+This led the rulers of various nations to begin, for the first time, to question the legitimacy of war itself, regardless of its causes. Previously, waging war in response to the assassination of a crown prince had always been considered a completely justifiable cause; however, the unprecedented devastation of World War I finally prompted people to reflect on the war itself, rather than merely whether it had a justifiable cause.  
+The whole world was relatively peaceful in the following decades. However, due to unavoidable reasons such as `instinctive hunger for interests`,` the victorious countries of World War I bullied Germany in a non-war manner `and` appeasement policies towards the countries that launched the war `, the international order established by World War I was broken.  
+World War II broke out, and it was far more devastating than World War I, which led to the emergence of a new international order—the United Nations.  
+Leaders around the world are once again learning the lessons of the past—just as they did immediately after World War I—and are carefully reconsidering the peace.  
+But even so, the Cold War continued without starting wars, using every means other than war.  
+Later, the five permanent members of the UN Security Council and a few other countries acquired nuclear weapons, and there are also unpredictable [dead-hand](https://en.wikipedia.org/wiki/Dead_Hand) like systems, forming a nuclear deterrent system.  
+war against nuclear states and their common defense alliances is often hard or confined within a certain range.  
+But the war against non-nuclear states has not yet been curtailed, however that's not the point.
+
+The point is that the peace brought about by the watershed is temporary and fundamentally unstable.  
+And so, over time, reflecting on the rationality of war itself regardless of its causes, is forgotten by the rulers of nations.  
+In recent years, Russia's aggression against Ukraine, a country protected by [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) of many nuclear-armed countries, is a proof of this.  
+Promises of protection by the countries concerned have become empty talk, just like the policy of appeasement before the start of World War II.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
