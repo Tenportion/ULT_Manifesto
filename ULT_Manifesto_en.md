@@ -68,6 +68,21 @@ Imagine millions of warriors fighting each other with wooden weapons. That's non
 The more lethal the weapon, the more combatants it takes to sustain the wear and tear, the greater the casualties, and the greater the proportion of relatives and friends of the casualties among the population, sharply increasing the hatred between the warring parties, including non-combatants.  
 Village fights are very easy to reconcile, but the hatred brought about by high-intensity wars like the world wars is difficult to resolve for many generations, and it is easy to trigger secondary liquidation wars through hatred.  
 When the lethality of weapons reaches a certain threshold, the intensity of war will be great enough to destroy the entire human society.
+#### 1.1.5.Science and Technology Advancing Faster and Faster until Now
+Scientists conduct basic research to discover the laws governing the world and drive scientific progress.  
+Engineers stand on the shoulders of giants and strive to build scientific achievements into practical applications and summarize them into technologies, and finally enter all walks of life, including the military.  
+Technology, in turn, will provide science with more efficient research tools.  
+Going from 0 to 1 is harder than going from 1 to many; as soon as a breakthrough occurs in a technology, the development of related technologies will flourish, with thriving and competing vigorously.  
+Although the progress of science, especially physics, seems to have encountered a certain bottleneck, but as long as the scientific achievements have not been fully transformed into technology under the premise of theoretical feasibility, the development of science and technology standing on the shoulders of giants will be faster and faster.
+
+Throughout history, it took humans millions of years to transition from the Paleolithic to the Neolithic era.  
+It took about 6,000 years to transition from the Neolithic Age to the Bronze Age.  
+It took 3,000 years from the Bronze Age to the Iron Age.  
+It also took almost 3,000 years from the Iron Age to the Steam Age (or the Industrial Age).  
+It took less than 200 years from the steam age to the information age.  
+Moreover, the new things produced in the later era are much more than those in the previous era, indicating that there is a foundation before, science and technology are advancing faster and faster.  
+
+And in the 21st century, a lot of unimaginable high-tech takes only a few years to emerge and flourish, the time taken is unimaginably fast.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
