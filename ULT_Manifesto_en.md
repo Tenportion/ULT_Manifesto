@@ -83,7 +83,7 @@ It took less than 200 years from the steam age to the information age.
 Moreover, the new things produced in the later era are much more than those in the previous era, indicating that there is a foundation before, science and technology are advancing faster and faster.  
 
 And in the 21st century, a lot of unimaginable high-tech takes only a few years to emerge and flourish, the time taken is unimaginably fast.
-#### 1.1.6.Technology Blockade is Unrealistic
+#### 1.1.6.Science and Technology Blockade is Unrealistic
 In the context of modern scientific and technological development, for research to be advanced, it usually requires the participation of many people. Therefore, scientists and researchers publish their findings in renowned journals and file for patents so that more people can see their work and help carry it forward.  
 However, it is not that there is no secret research, but the more closed the secret research, the lower the efficiency. It seems that it is not impossible to lock down technology.  
 But for comprehensive technological development, most technological achievements need to be able to flow with low resistance.
