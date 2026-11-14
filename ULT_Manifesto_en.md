@@ -59,6 +59,15 @@ The point is that the peace brought about by the watershed is temporary and fund
 And so, over time, reflecting on the rationality of war itself regardless of its causes, is forgotten by the rulers of nations.  
 In recent years, Russia's aggression against Ukraine, a country protected by [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) of many nuclear-armed countries, is a proof of this.  
 Promises of protection by the countries concerned have become empty talk, just like the policy of appeasement before the start of World War II.
+#### 1.1.4.Science and Technology Advancements Enhance War Intensity
+This is very obvious, but since it is indeed a basic premise, I wrote it down.  
+The more advanced science and technology, the more powerful the lethality of weapons, from wooden weapons, stone weapons, bronze weapons, iron weapons to hot weapons, and then from early guns to bombers, and now missiles and nuclear weapons.  
+The greater the lethality of weapons (of course, not just weapons, but also economic impacts), the greater the scale of war will be.  
+Many times people will joke that ancient warfare is just a village fight, which is caused by the low killing efficiency of ancient weapons.  
+Imagine millions of warriors fighting each other with wooden weapons. That's nonsense.  
+The more lethal the weapon, the more combatants it takes to sustain the wear and tear, the greater the casualties, and the greater the proportion of relatives and friends of the casualties among the population, sharply increasing the hatred between the warring parties, including non-combatants.  
+Village fights are very easy to reconcile, but the hatred brought about by high-intensity wars like the world wars is difficult to resolve for many generations, and it is easy to trigger secondary liquidation wars through hatred.  
+When the lethality of weapons reaches a certain threshold, the intensity of war will be great enough to destroy the entire human society.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
