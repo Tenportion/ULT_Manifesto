@@ -1,6 +1,6 @@
 # 联合同盟宣言序言
 [![](https://img.shields.io/badge/AI-unused-green)](#联合同盟宣言序言)
-[![](https://img.shields.io/badge/translated-13.81%25-yellow)](./readme_en.md)
+[![](https://img.shields.io/badge/translated-14.87%25-yellow)](./readme_en.md)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## 其他语言(Other Languages)
 * [English](./readme_en.md)
