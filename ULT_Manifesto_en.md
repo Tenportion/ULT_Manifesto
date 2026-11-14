@@ -83,6 +83,17 @@ It took less than 200 years from the steam age to the information age.
 Moreover, the new things produced in the later era are much more than those in the previous era, indicating that there is a foundation before, science and technology are advancing faster and faster.  
 
 And in the 21st century, a lot of unimaginable high-tech takes only a few years to emerge and flourish, the time taken is unimaginably fast.
+#### 1.1.6.Technology Blockade is Unrealistic
+In the context of modern scientific and technological development, for research to be advanced, it usually requires the participation of many people. Therefore, scientists and researchers publish their findings in renowned journals and file for patents so that more people can see their work and help carry it forward.  
+However, it is not that there is no secret research, but the more closed the secret research, the lower the efficiency. It seems that it is not impossible to lock down technology.  
+But for comprehensive technological development, most technological achievements need to be able to flow with low resistance.
+
+Take military technology with very severe blockade as an example.  
+In the past, European colonizers, armed with guns that the indigenous peoples of the Americas and Africa did not possess, were virtually invincible.  
+But now, no matter how weak a country is, it still has guns.  
+Later powerful countries first owned armored vehicles, tanks, aircraft, missiles and other weapons.  
+Not to mention that all countries have them now, but as time goes on, even weaker and more countries will gradually have them.  
+Of course, there must be a big generational gap between them and the powerful countries.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
