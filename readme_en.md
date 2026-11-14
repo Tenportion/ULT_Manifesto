@@ -23,7 +23,7 @@ In short, **if humankind is not united, we will eventually be ruined by civil wa
 
 **[link to main text](./ULT_Manifesto_en.md)**
 
-Branch master need a long time to be updated. Please see branch develop for the latest undetermined content.
+Branch master need more time to be updated. Please see branch develop for the latest undetermined content.
 
 This book is divided into three parts, unity, stability maintenance and optimization.  
 **Unity** is indispensable, otherwise we will surely be ruined by civil war.  
