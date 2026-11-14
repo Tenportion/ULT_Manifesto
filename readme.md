@@ -1,8 +1,8 @@
 # 联合同盟宣言序言
 [![](https://img.shields.io/badge/AI-unused-green)](#联合同盟宣言序言)
-[![](https://img.shields.io/badge/translated-0%25-orange)](./readme_en.md)
+[![](https://img.shields.io/badge/translated-14.87%25-yellow)](./readme_en.md)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
-## 其他语言(Other Language)
+## 其他语言(Other Languages)
 * [English](./readme_en.md)
 ## 其他平台
 ### 宣言仓库
@@ -23,7 +23,7 @@
 
 **[正文链接](./ULT_Manifesto.md)**
 
-master分支很久才会更新一次，最新未确定内容请看develop分支
+master分支更长时间才会更新一次，最新未确定内容请看develop分支
 
 本文分为三个部分，团结、维稳、优化  
 **团结**是必要的，不然一定会毁于内战  
