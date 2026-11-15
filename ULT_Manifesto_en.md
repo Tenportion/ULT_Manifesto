@@ -200,6 +200,33 @@ There are also many exclusions due to different identities, such as opposing rel
 Another point is that unity isn't accepted by all ideologies, and most people aren't interested in politics, it's not that easy to spread the theory.  
 The huge resistance is also an important reason why I hesitated to start writing for so long.  
 However, despite such huge resistance, it is still necessary to make an attempt for the survival of human society.
+#### 1.3.3.Ways of Unity
+This theory opposes civil war among humans and advocates for humans' internal peace.  
+So in almost all cases, we should achieve the great ideal of unity as peacefully as possible.
+
+The main way to unite is to persuade the majority of people to accept this theory.  
+As long as the majority of a country’s people recognize the serious consequences of disunity and thus endorse this theory, even if the ruling group and vested interest groups are deeply reluctant, they will most likely be swept along by public opinion and have to accept unity and unification.  
+Members of the ULT in a position to do so can promote unity through elections and parliamentary paths.  
+After the highest authority of a country has adopted the unity path of the ULT theory, it can be admitted into the unified country envisaged.  
+Besides armed attack, economic sanctions based on the superiority of unified parts are not a good idea either.  
+Only by avoiding any hostile actions as much as possible and promoting unification through voluntary means by all countries can crises be avoided. Conciliation and naturalization can be adopted to unite all countries wholeheartedly.  
+Otherwise, it will put the cart before the horse and may backfire and cause the world to fall into turmoil. The history of colonization by European countries has stepped on this pit. Although they unified vast territories under a single government, the lack of unity and cohesion made it nearly impossible to avoid disintegration.
+
+Since we should pursue peaceful means as much as possible, we should not carry out a revolution.  
+Throughout history, most successful revolutions have forcefully suppressed the opposition and the former rulers.  
+However, many of them failed to maintain the purity of the revolution in the end, and gradually erased the changes brought about by the revolution in various ways.  
+And the revolutionary process is necessarily bloody and fraught with risk, for revolution itself implies the exhaustion of all means at all costs for the ultimate goal of merely self-believed great truth.  
+Those among the populace who hold dissenting opinions are suppressed and left with no place—sometimes even being physically erased, whether justifiably or unjustifiably, in the course of a revolution.  
+No one can guarantee that the great ideals he believes in are the truth, and this theory is no exception. Although there is a saying that *Practice is the sole criterion for testing truth*, in fact, any practice has its limitations and defects.  
+Members of the ULT **never** blindly believe in the ULT theory and put it into revolution; we must not use violence to coerce the people into accepting the ULT theory; and we must not  make the people suffer in pursuit of ideals that may not be correct.
+
+In a very small number of controllable cases, it is possible to adopt a non-peaceful unification method.  
+For example, if the world is roughly unified, but there are still very few countries that are unable to endanger the survival of mankind and refuse to unite and unify, then they can carefully consider and seize their supreme power by armed force or economic sanctions under the principle of minimizing destruction.  
+Or perhaps certain countries are obstructing or threatening our cause through intolerable hostile actions.
+
+The reason why unity and unification are not promoted through the [United Nations](https://en.wikipedia.org/wiki/United_Nations) is that the United Nations, like the war reflection after the war, has become weaker and weaker. The Security Council has appeared increasingly ineffective over time ,becoming a platform for the privileges of a few countries.  
+The reason why the ULT theory is still needed even though the concept of [Community of Common Destiny](https://en.wikipedia.org/wiki/Community_of_Common_Destiny) already exists is that the Community of Common Destiny merely advocates `taking into account the legitimate concerns of other countries while pursuing one’s own interests, and promoting the common development of all nations while seeking one’s own development`, It does not have the objective of unity and unification; it does not point out the devastating consequences of failing to take into account the legitimate concerns of other countries; nor does it provide a plan for establishing a system that would enforce the protection of humanity’s shared destiny.  
+Instead, nationalization of the European Union aligns more closely with the goals of the ULT theory. Furthermore, similar regional integration initiatives—such as `the United Kingdom relinquishing certain interests and unifying the Commonwealth` or `Iberia relinquishing certain interests and merging with Latin America`—can serve as steps toward unity and unification.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
