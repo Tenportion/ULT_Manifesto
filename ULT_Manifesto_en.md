@@ -94,6 +94,44 @@ But now, no matter how weak a country is, it still has guns.
 Later powerful countries first owned armored vehicles, tanks, aircraft, missiles and other weapons.  
 Not to mention that all countries have them now, but as time goes on, even weaker and more countries will gradually have them.  
 Of course, there must be a big generational gap between them and the powerful countries.
+### 1.2.Why Unity Needed
+#### 1.2.1.The Necessity of Unity
+From the [basic background](#11basic-background) above, it can be inferred that:
+
+Even with the blessing of `humanity`, the strong countries never forget to bully the weak countries because of human `evil instinct`.  
+Although Chapter [Strong Countries Bully Weak Countries](#113strong-countries-bully-weak-countries) introduces only three watersheds between war and peace, those are merely the major ones.  
+In fact, there are many other minor‌ watersheds: with every innovation in weaponry, there has always been some degree of reflection on of war.  
+At the beginning, it is difficult to kill with a wooden stick. It is often only a formal competition of strength and determines the distribution of benefits.  
+The appearance of the gun must have been a huge shock, by which it is too easy to kill a living life.  
+However, there will leave no reflection at all. After that, more and more cruel wars and more and more powerful weapons can only suppress the war mood for a period of time, and will eventually be suppressed by human evil instincts.
+
+And especially in modern times, in order to maximize benefits, the preferred way for strong countries to bully weak countries is no longer to annex territory, but to adopt unequal treaties.  
+Even if annexed territory, they will selectively annex places with strategic value, developed economy, rich resources and other major interests.  
+It is difficult for them to have the kindness to annex weak countries indiscriminately and grant their citizens full citizenship in their own countries, and colonization is more likely to be a loss.  
+Therefore, in most cases, global unification cannot be achieved by relying on strong countries to bully weak countries, and there is more than one strong country.  
+It is clear that for humans to eventually achieve unity spontaneously is a very difficult thing and a very low probability event.  
+However, the end of history is not certain; through the ULT, we can increase the likelihood of global unification even if the probability increases only slightly.
+
+[Science and technology are advancing faster and faster](#115science-and-technology-advancing-faster-and-faster-until-now), [weapons are becoming more and more powerful](#114science-and-technology-advancements-enhance-war-intensity), [science and technology blockade is unrealistic](#116science-and-technology-blockade-is-unrealistic).  
+Although it seems unrealistic at now that **all weak countries will eventually acquire nuclear weapons**.  
+But just as European colonizers once thought it unrealistic that indigenous peoples would one day have guns.  
+Nuclear weapons, like guns, tanks, airplanes, and missiles, are all weapons. Over time, powerful countries will have stronger weapons, but weak countries will also have weapons monopolized by powerful countries before.
+
+Many people will say, isn't there a [Nuclear Non-Proliferation Treaty](https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons)?  
+Although non-nuclear countries that violate the Nuclear Non-Proliferation Treaty in an attempt to develop nuclear weapons would face severe sanctions or even armed attacks from major powers, North Korea, India, Pakistan, and Israel have nevertheless acquired.  
+In those years, China also received strong sanctions from the United States and the Soviet Union for developing [two bombs and one satellite](https://en.wikipedia.org/wiki/Two_Bombs,_One_Satellite). However, China regarded nuclear weapons as the destiny of the country and finally succeeded in acquiring them by relying on underground nuclear engineering.  
+Moreover, the Nuclear Non-Proliferation Treaty can only limit the proliferation of nuclear weapons. Civilian nuclear technology is not restricted, but civilian nuclear technology will also greatly facilitate the weaponization of nuclear energy.  
+Furthermore, the Nuclear Non-Proliferation Treaty is an unequal treaty of using strength to bully the weak. In addition, the recent nuclear threats and nuclear blackmail by Russia and other countries against other countries will make non-nuclear countries indignant.  
+And in 2026, the United States and Israel dare to attack Iran because Iran has not yet developed nuclear weapons. At present, they dare not attack North Korea because North Korea really has nuclear weapons. Based on such a situation, it will only make non-nuclear countries more determined about the correctness and necessity of possessing nuclear weapons.  
+**All lessons are time-sensitive**, nuclear threats and nuclear blackmail are more likely to increase in the future, and the desire and actions of non-nuclear countries to acquire nuclear weapons will only intensify.
+
+By then, countries all over the world will have nuclear weapons, and the powerful countries will never forget to bully the weaker ones.  
+In the face of endless bullying and threats of annihilation, all kinds of taboo countermeasures are no longer taboo.  
+What do the Nuclear Non-Proliferation Treaty, the [Chemical Weapons Convention](https://en.wikipedia.org/wiki/Chemical_Weapons_Convention), and the [Biological Weapons Convention](https://en.wikipedia.org/wiki/Biological_Weapons_Convention) amount to in the face of the overwhelming rage and resentment sparked by the relentless bullying of powerful countries?  
+What's wrong with launching a nuclear strike directly against a powerful country, triggering its death hand system, throwing destructive biological weapons or chemical weapons into the ecological environment, using a [cobalt bomb](https://en.wikipedia.org/wiki/Cobalt_bomb) or other destructive weapons? Since I can't live, wouldn't it be pretty wonderful to drag you powerful country and even the whole world down with me?  
+Don't expect weak countries to be willing to be bullied endlessly rather than drag all mankind down with them. *Cutting off people's financial path is like killing parents*, let alone endless bullying and threats of extinction.
+
+Therefore, **if humankind is not united, we will eventually be ruined by civil war.**
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
