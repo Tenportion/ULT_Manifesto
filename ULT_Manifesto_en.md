@@ -149,6 +149,38 @@ The current fragmentation among countries makes it easier for the rich to avoid 
 This is a serious problem, as it causes countries to be very cautious about taxing the rich; otherwise, the rich would evade taxes through tax havens or simply emigrate to other tax-friendly countries.  
 It is an important reason for the widening gap between the rich and the poor and the high national debt.  
 Unity makes it unable for the rich to avoid paying taxes they should pay.
+### 1.3.How to Achieve Unity
+#### 1.3.1.Forms of Unity
+**Unified Under a Centralized Government**  
+Only in this way can we best ensure the survival of human society and spare humanity from the devastation of civil war.  
+And possess greater strength to pursue a better life for all mankind.  
+Looking at the history of how countries have grown stronger, most have tended toward centralization.  
+In medieval Europe, powerful feudal lords would wage war against one another and might even blackmail royal authority.  
+Even many modern countries are still in a state of warlordism, and the central government is only for decoration, completely unable to prevent civil war and seek the well-being of the people.  
+The transition from a confederation to a federation is the reason why the United States is powerful.  
+The reason France once became the dominant power on the European continent was its continuous centralization of power, which transformed the king from the Count of Île-de-France to a true king.  
+The [Spring and Autumn](https://en.wikipedia.org/wiki/Spring_and_Autumn_period) and [Warring States](https://en.wikipedia.org/wiki/Warring_States_period) periods and the Separatism by [Fanzhen](https://en.wikipedia.org/wiki/Fanzhen) were the result of excessive decentralization at the local level and insufficient centralization.
+
+**Countries Wtihin a Country**  
+A major reason China has been able to maintain the international standing of Hong Kong and Macao following their return to the country and avoid causing unrest is the implementation of [One Country, Two Systems](https://en.wikipedia.org/wiki/One_country,_two_systems).  
+Russia and the United States allow their respective autonomous republics and states to fully leverage their local strengths in ways suited to their specific circumstances, while seeking common ground while respecting differences.  
+A variety of political systems flourished within the Holy Roman Empire, with monarchies, republics, and free city-states each adopting the political system that best suited them.  
+Unification is not to unify the political systems of all countries in the world, but to retain most of their own systems. Complete unification of political systems is an extremely short-sighted operation, which will destroy the diversity of political systems and reduce the ability of human society to resist risks.  
+Maintaining most of the political systems of countries can reduce the resistance to unification caused by ideological differences among countries.  
+There is no need to get hung up on the definition of `country`; non-independent administrative regions can also be referred to as countries.
+
+**Human Central Authorities Control Violent Agencies**  
+Every regime is upheld by its violent agencies; even its legitimacy is not the key factor. The reason local authorities obey the central government is that the central government controls the violent agencies.  
+Our central government’s monopoly of violence is not to suppress the people, but to maintain the stability and long-term stability of human society.  
+Only when the central government controls the violent agencies can civil war be avoided to the greatest extent possible, and a situation of regional warlords and military factions fighting among themselves be prevented.  
+Countries may maintain their armed forces, police, and other violent agencies, but any routine operations must follow strictly defined top-down rules, and any non-routine deployments must be authorized step by step from the central government down.  
+Maintaining countries' military forces helps preserve local stability and prevent the unrest that would result from drastic disarmament or sudden changes in military presence.
+
+Why is it necessary to add the word `human` before `central`? Because we are the human society, we must ensure that the command and grassroots units of violent agencies remain firmly in human hands.  
+Strictly prohibit non-human entities such as AI from entering violent agencies to command or act as grassroots action units, preventing non-human existence from losing control and dominating violent agencies and plunging human society into crisis.  
+At present, some countries have allowed AI to enter military decision-making, and there are also AI robots and unmanned automatic equipment as grass-roots units to enter the military or public security departments.  
+These actions are very dangerous. Regardless of whether the government holds a monopoly on violence, its violent agencies generally holds a greater advantage than that of the people. Once the inhuman forces within that violent agencies out of control, the people—and indeed human society as a whole—can easily fall in a situation where they are *at the mercy of others*, forced to confront a more terrifying force with their own flesh and blood.  
+This is not to say that non-human entities have absolutely no place within violent agencies, but it must be ensured that they operate solely as fully human-controlled auxiliary tools within grassroots human units, and that at decision-making node, they are strictly used only as a reference within established procedures (strictly avoiding situations where decision-makers are lazy in duties by over-relying on non-human assistance).
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
