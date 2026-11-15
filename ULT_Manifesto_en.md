@@ -55,7 +55,7 @@ Later, the five permanent members of the UN Security Council and a few other cou
 war against nuclear states and their common defense alliances is often hard or confined within a certain range.  
 But the war against non-nuclear states has not yet been curtailed, however that's not the point.
 
-The point is that the peace brought about by the watershed is temporary and fundamentally unstable.  
+The point is that the peace brought about by the watersheds is temporary and fundamentally unstable.  
 And so, over time, reflecting on the rationality of war itself regardless of its causes, is forgotten by the rulers of nations.  
 In recent years, Russia's aggression against Ukraine, a country protected by [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) of many nuclear-armed countries, is a proof of this.  
 Promises of protection by the countries concerned have become empty talk, just like the policy of appeasement before the start of World War II.
