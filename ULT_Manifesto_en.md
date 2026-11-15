@@ -132,6 +132,23 @@ What's wrong with launching a nuclear strike directly against a powerful country
 Don't expect weak countries to be willing to be bullied endlessly rather than drag all mankind down with them. *Cutting off people's financial path is like killing parents*, let alone endless bullying and threats of extinction.
 
 Therefore, **if humankind is not united, we will eventually be ruined by civil war.**
+#### 1.2.2.Other Benefits of Unity
+Although, ruined by civil war is the greatest risk.  
+Getting unity and avoiding this risk can increase resistance to other risks.  
+For example, foreign objects in the sky. Human beings in the crazy civil war at the same time, it is difficult to consider other, at this time to a devastating meteorite is finished.
+
+Because the current intensity of human war has not reached the level of destruction, so the plague killed more people than war.  
+We should not underestimate the plague either. After unity, we can dispatch global resources more efficiently to block the spread of the low probability doomsday plague as early as possible.
+
+Unity can reduce the intensity of competition and thereby mitigate its negative side effects.  
+At present, all countries are engaged in life-and-death competition. It is like sailing against the current. If you don't advance, you will retreat. As a result, many people have no choice but to work hard. As a result, life is not good and society is full of hostility.  
+What’s more serious is that countries are deeply in debt, which increases the risk of economic collapse. Without cutting interest rates, it’s difficult to manage the debt burden; yet cutting rates or issuing currency to repay debts can easily lead to an inflationary trap. Once debt spirals out of control or inflation skyrockets, it will be difficult to safeguard people’s well-being.  
+Most of the reasons why countries have so much debt are because they have no choice but to compete. They all want to gain the upper hand over other countries in technological innovation, keep their livelihoods, and make other countries have no choice but to chase after them.
+
+The current fragmentation among countries makes it easier for the rich to avoid their own countries' taxes.  
+This is a serious problem, as it causes countries to be very cautious about taxing the rich; otherwise, the rich would evade taxes through tax havens or simply emigrate to other tax-friendly countries.  
+It is an important reason for the widening gap between the rich and the poor and the high national debt.  
+Unity makes it unable for the rich to avoid paying taxes they should pay.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
