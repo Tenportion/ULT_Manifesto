@@ -181,6 +181,25 @@ Strictly prohibit non-human entities such as AI from entering violent agencies t
 At present, some countries have allowed AI to enter military decision-making, and there are also AI robots and unmanned automatic equipment as grass-roots units to enter the military or public security departments.  
 These actions are very dangerous. Regardless of whether the government holds a monopoly on violence, its violent agencies generally holds a greater advantage than that of the people. Once the inhuman forces within that violent agencies out of control, the people—and indeed human society as a whole—can easily fall in a situation where they are *at the mercy of others*, forced to confront a more terrifying force with their own flesh and blood.  
 This is not to say that non-human entities have absolutely no place within violent agencies, but it must be ensured that they operate solely as fully human-controlled auxiliary tools within grassroots human units, and that at decision-making node, they are strictly used only as a reference within established procedures (strictly avoiding situations where decision-makers are lazy in duties by over-relying on non-human assistance).
+#### 1.3.2.The Resistance to Unity
+The resistance to unity is quite large, from many aspects.
+
+On the one hand, it is difficult for the current ruling groups of countries to be willing to  give up their supreme authority over independent countries they are reigning.  
+Imagine that it is obviously very difficult for powerful rulers such as Putin, Trump, Xi Jinping, Kim Jong Un, Khamenei and Salman Jr. to hand over their supreme power and demote them to leaders of local administrative regions.  
+Not only the ruling groups, but for anyone, when talking about righteousness, it's always agreement; when it comes to sacrificing one's own interests, it's absolutely impossible.  
+*Refusing to pluck out even a single hair to benefit the entire world* summarizes this phenomenon, after all, `profit-seeking and harm-avoiding instinct` is engraved in the gene.
+
+On the other hand, to a greater or lesser extent, everyone tends to care more about people who are close to them.  
+There is an old Chinese saying: *Those who are not of our kind must have different hearts.* In fact, many people care less about those who are more different from them or farther away from them.  
+That's why nationalism can easily stir up conflict.  
+It’s already a relief if many people don’t discriminate against other ethnic groups; it’s very difficult to expect them to be inclusive and unite with other ethnic groups.  
+Regional discrimination also exists within a same country, and there can even be clan-based discrimination within a same village.  
+Discrimination is everywhere and is a considerable resistance to uniting all mankind.  
+There are also many exclusions due to different identities, such as opposing religions, ethnic groups that believe that there is a blood feud, and so on.
+
+Another point is that unity isn't accepted by all ideologies, and most people aren't interested in politics, it's not that easy to spread the theory.  
+The huge resistance is also an important reason why I hesitated to start writing for so long.  
+However, despite such huge resistance, it is still necessary to make an attempt for the survival of human society.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
