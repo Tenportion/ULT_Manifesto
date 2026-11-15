@@ -1,6 +1,6 @@
 # ULT Manifesto Preface
 [![](https://img.shields.io/badge/AI-unused-green)](#ult-manifesto-preface)
-[![](https://img.shields.io/badge/translated-21.97%25-yellow)](#ult-manifesto-preface)
+[![](https://img.shields.io/badge/translated-31.65%25-yellow)](#ult-manifesto-preface)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## Other Languages
 * [简体中文](./readme.md)
@@ -15,7 +15,7 @@
 
 When I was in elementary school, my dream was to become a scientist to benefit mankind and let people live a better life.  
 But by the time I was in junior high school, I felt that being a scientist would not fulfill this purpose.  
-In 2016, I realized a theory - ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
+In 2016, I realized a theory - the ULT(*the United League of Terrans*) Theory. At that time, it was recognized and praised by many classmates.  
 Now that ten years have passed and I still believe it to be correct, I set out to describe it in detail and release it in a book.  
 This book will elaborate on this theory.
 
@@ -33,7 +33,7 @@ Therefore, the **Unity** part of this book is the core point; the **Stability Ma
 
 Therefore, as long as you have roughly read and approved the **Unity** part of this book, you can proudly consider yourself one of ULT.  
 ULT is not a country or a party, but a loose and libre ideological group.  
-If you are one of us, please do not hesitate to star this repository and positively spread the theory.
+If you are one of us or interested in this theory, please don't hesitate to star this repository and share it with others.
 ## Issues
 I am not from a social science background, please do not ask me according to the standards of professional researchers.  
 My writing is not good, and I lack the ability to use words and make sentences, so please forgive me.  

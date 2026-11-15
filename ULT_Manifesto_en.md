@@ -149,6 +149,84 @@ The current fragmentation among countries makes it easier for the rich to avoid 
 This is a serious problem, as it causes countries to be very cautious about taxing the rich; otherwise, the rich would evade taxes through tax havens or simply emigrate to other tax-friendly countries.  
 It is an important reason for the widening gap between the rich and the poor and the high national debt.  
 Unity makes it unable for the rich to avoid paying taxes they should pay.
+### 1.3.How to Achieve Unity
+#### 1.3.1.Forms of Unity
+**Unified Under a Centralized Government**  
+Only in this way can we best ensure the survival of human society and spare humanity from the devastation of civil war.  
+And possess greater strength to pursue a better life for all mankind.  
+Looking at the history of how countries have grown stronger, most have tended toward centralization.  
+In medieval Europe, powerful feudal lords would wage war against one another and might even blackmail royal authority.  
+Even many modern countries are still in a state of warlordism, and the central government is only for decoration, completely unable to prevent civil war and seek the well-being of the people.  
+The transition from a confederation to a federation is the reason why the United States is powerful.  
+The reason France once became the dominant power on the European continent was its continuous centralization of power, which transformed the king from the Count of Île-de-France to a true king.  
+The [Spring and Autumn](https://en.wikipedia.org/wiki/Spring_and_Autumn_period) and [Warring States](https://en.wikipedia.org/wiki/Warring_States_period) periods and the Separatism by [Fanzhen](https://en.wikipedia.org/wiki/Fanzhen) were the result of excessive decentralization at the local level and insufficient centralization.
+
+**Countries Wtihin a Country**  
+A major reason China has been able to maintain the international standing of Hong Kong and Macao following their return to the country and avoid causing unrest is the implementation of [One Country, Two Systems](https://en.wikipedia.org/wiki/One_country,_two_systems).  
+Russia and the United States allow their respective autonomous republics and states to fully leverage their local strengths in ways suited to their specific circumstances, while seeking common ground while respecting differences.  
+A variety of political systems flourished within the Holy Roman Empire, with monarchies, republics, and free city-states each adopting the political system that best suited them.  
+Unification is not to unify the political systems of all countries in the world, but to retain most of their own systems. Complete unification of political systems is an extremely short-sighted operation, which will destroy the diversity of political systems and reduce the ability of human society to resist risks.  
+Maintaining most of the political systems of countries can reduce the resistance to unification caused by ideological differences among countries.  
+There is no need to get hung up on the definition of `country`; non-independent administrative regions can also be referred to as countries.
+
+**Human Central Authorities Control Violent Agencies**  
+Every regime is upheld by its violent agencies; even its legitimacy is not the key factor. The reason local authorities obey the central government is that the central government controls the violent agencies.  
+Our central government’s monopoly of violence is not to suppress the people, but to maintain the stability and long-term stability of human society.  
+Only when the central government controls the violent agencies can civil war be avoided to the greatest extent possible, and a situation of regional warlords and military factions fighting among themselves be prevented.  
+Countries may maintain their armed forces, police, and other violent agencies, but any routine operations must follow strictly defined top-down rules, and any non-routine deployments must be authorized step by step from the central government down.  
+Maintaining countries' military forces helps preserve local stability and prevent the unrest that would result from drastic disarmament or sudden changes in military presence.
+
+Why is it necessary to add the word `human` before `central`? Because we are the human society, we must ensure that the command and grassroots units of violent agencies remain firmly in human hands.  
+Strictly prohibit non-human entities such as AI from entering violent agencies to command or act as grassroots action units, preventing non-human existence from losing control and dominating violent agencies and plunging human society into crisis.  
+At present, some countries have allowed AI to enter military decision-making, and there are also AI robots and unmanned automatic equipment as grass-roots units to enter the military or public security departments.  
+These actions are very dangerous. Regardless of whether the government holds a monopoly on violence, its violent agencies generally holds a greater advantage than that of the people. Once the inhuman forces within that violent agencies out of control, the people—and indeed human society as a whole—can easily fall in a situation where they are *at the mercy of others*, forced to confront a more terrifying force with their own flesh and blood.  
+This is not to say that non-human entities have absolutely no place within violent agencies, but it must be ensured that they operate solely as fully human-controlled auxiliary tools within grassroots human units, and that at decision-making node, they are strictly used only as a reference within established procedures (strictly avoiding situations where decision-makers are lazy in duties by over-relying on non-human assistance).
+#### 1.3.2.The Resistance to Unity
+The resistance to unity is quite large, from many aspects.
+
+On the one hand, it is difficult for the current ruling groups of countries to be willing to  give up their supreme authority over independent countries they are reigning.  
+Imagine that it is obviously very difficult for powerful rulers such as Putin, Trump, Xi Jinping, Kim Jong Un, Khamenei and Salman Jr. to hand over their supreme power and demote them to leaders of local administrative regions.  
+Not only the ruling groups, but for anyone, when talking about righteousness, it's always agreement; when it comes to sacrificing one's own interests, it's absolutely impossible.  
+*Refusing to pluck out even a single hair to benefit the entire world* summarizes this phenomenon, after all, `profit-seeking and harm-avoiding instinct` is engraved in the gene.
+
+On the other hand, to a greater or lesser extent, everyone tends to care more about people who are close to them.  
+There is an old Chinese saying: *Those who are not of our kind must have different hearts.* In fact, many people care less about those who are more different from them or farther away from them.  
+That's why nationalism can easily stir up conflict.  
+It’s already a relief if many people don’t discriminate against other ethnic groups; it’s very difficult to expect them to be inclusive and unite with other ethnic groups.  
+Regional discrimination also exists within a same country, and there can even be clan-based discrimination within a same village.  
+Discrimination is everywhere and is a considerable resistance to uniting all mankind.  
+There are also many exclusions due to different identities, such as opposing religions, ethnic groups that believe that there is a blood feud, and so on.
+
+Another point is that unity isn't accepted by all ideologies, and most people aren't interested in politics, it's not that easy to spread the theory.  
+The huge resistance is also an important reason why I hesitated to start writing for so long.  
+However, despite such huge resistance, it is still necessary to make an attempt for the survival of human society.
+#### 1.3.3.Ways of Unity
+This theory opposes civil war among humans and advocates for humans' internal peace.  
+So in almost all cases, we should achieve the great ideal of unity as peacefully as possible.
+
+The main way to unite is to persuade the majority of people to accept this theory.  
+As long as the majority of a country’s people recognize the serious consequences of disunity and thus endorse this theory, even if the ruling group and vested interest groups are deeply reluctant, they will most likely be swept along by public opinion and have to accept unity and unification.  
+Members of the ULT in a position to do so can promote unity through elections and parliamentary paths.  
+After the highest authority of a country has adopted the unity path of the ULT theory, it can be admitted into the unified country envisaged.  
+Besides armed attack, economic sanctions based on the superiority of unified parts are not a good idea either.  
+Only by avoiding any hostile actions as much as possible and promoting unification through voluntary means by all countries can crises be avoided. Conciliation and naturalization can be adopted to unite all countries wholeheartedly.  
+Otherwise, it will put the cart before the horse and may backfire and cause the world to fall into turmoil. The history of colonization by European countries has stepped on this pit. Although they unified vast territories under a single government, the lack of unity and cohesion made it nearly impossible to avoid disintegration.
+
+Since we should pursue peaceful means as much as possible, we should not carry out a revolution.  
+Throughout history, most successful revolutions have forcefully suppressed the opposition and the former rulers.  
+However, many of them failed to maintain the purity of the revolution in the end, and gradually erased the changes brought about by the revolution in various ways.  
+And the revolutionary process is necessarily bloody and fraught with risk, for revolution itself implies the exhaustion of all means at all costs for the ultimate goal of merely self-believed great truth.  
+Those among the populace who hold dissenting opinions are suppressed and left with no place—sometimes even being physically erased, whether justifiably or unjustifiably, in the course of a revolution.  
+No one can guarantee that the great ideals he believes in are the truth, and this theory is no exception. Although there is a saying that *Practice is the sole criterion for testing truth*, in fact, any practice has its limitations and defects.  
+Members of the ULT **never** blindly believe in the ULT theory and put it into revolution; we must not use violence to coerce the people into accepting the ULT theory; and we must not  make the people suffer in pursuit of ideals that may not be correct.
+
+In a very small number of controllable cases, it is possible to adopt a non-peaceful unification method.  
+For example, if the world is roughly unified, but there are still very few countries that are unable to endanger the survival of mankind and refuse to unite and unify, then they can carefully consider and seize their supreme power by armed force or economic sanctions under the principle of minimizing destruction.  
+Or perhaps certain countries are obstructing or threatening our cause through intolerable hostile actions.
+
+The reason why unity and unification are not promoted through the [United Nations](https://en.wikipedia.org/wiki/United_Nations) is that the United Nations, like the war reflection after the war, has become weaker and weaker. The Security Council has appeared increasingly ineffective over time ,becoming a platform for the privileges of a few countries.  
+The reason why the ULT theory is still needed even though the concept of [Community of Common Destiny](https://en.wikipedia.org/wiki/Community_of_Common_Destiny) already exists is that the Community of Common Destiny merely advocates `taking into account the legitimate concerns of other countries while pursuing one’s own interests, and promoting the common development of all nations while seeking one’s own development`, It does not have the objective of unity and unification; it does not point out the devastating consequences of failing to take into account the legitimate concerns of other countries; nor does it provide a plan for establishing a system that would enforce the protection of humanity’s shared destiny.  
+Instead, nationalization of the European Union aligns more closely with the goals of the ULT theory. Furthermore, similar regional integration initiatives—such as `the United Kingdom relinquishing certain interests and unifying the Commonwealth` or `Iberia relinquishing certain interests and merging with Latin America`—can serve as steps toward unity and unification.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
