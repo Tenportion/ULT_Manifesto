@@ -227,6 +227,22 @@ Or perhaps certain countries are obstructing or threatening our cause through in
 The reason why unity and unification are not promoted through the [United Nations](https://en.wikipedia.org/wiki/United_Nations) is that the United Nations, like the war reflection after the war, has become weaker and weaker. The Security Council has appeared increasingly ineffective over time ,becoming a platform for the privileges of a few countries.  
 The reason why the ULT theory is still needed even though the concept of [Community of Common Destiny](https://en.wikipedia.org/wiki/Community_of_Common_Destiny) already exists is that the Community of Common Destiny merely advocates `taking into account the legitimate concerns of other countries while pursuing one’s own interests, and promoting the common development of all countries while seeking one’s own development`, It does not have the objective of unity and unification; it does not point out the devastating consequences of failing to take into account the legitimate concerns of other countries; nor does it provide a plan for establishing a system that would enforce the protection of humanity’s shared destiny.  
 Instead, nationalization of the [European Union](https://en.wikipedia.org/wiki/European_Union) aligns more closely with the goals of the ULT theory. Furthermore, similar regional integration initiatives—such as `the United Kingdom relinquishing certain interests and unifying the Commonwealth` or `Iberia relinquishing certain interests and merging with Latin America`—can serve as steps toward unity and unification.
+## 2.Stability maintenance
+The boundary between stability maintenance and optimization is actually not clear. The two refer to each other.
+### 2.1.The Necessity of Stability maintenance
+Unification under a centralized government can only prevent wars between countries.  
+But throughout history, many of once-powerful regimes have not been overthrown by external enemies but from within.  
+Take the collapse of the Soviet Union for example. Surveys at the time generally concluded that the Communist Party of the Soviet Union could no longer represent the interests of the people or the workers and peasants, but instead represented the interests of the bureaucratic groups. In the late Soviet era, even honest and incorruptible officials were accused of seeking special privileges, ultimately making the blood of the revolutionary martyrs have been shed in vain.  
+Furthermore, the change of dynasties in China was often due to the serious annexation of land at the end of the dynasty. The new dynasty established by the uprising redistributed the land, so it could continue to operate.  
+To summarize this regularity: **the survival environment of the bottom people falls into an intolerable situation, which will bring about the risk of internal collapse.**
+
+In addition to the survival environment, the intensification of other social conflicts may also bring about the risk of internal collapse.  
+Those may also give rise to antisocial and anti-human individuals who don't have any ties and any concern for anything; they would destroy human society without any burden.  
+Don't underestimate ordinary people. Weak countries can acquire weapons once monopolized by powerful countries over time. Then by the same logic, the control of destructive weapons cannot be absolute.  
+As long as there are more people who are determined to oppose society and humanity, the probability that some of them can illegally acquire destructive weapons will increase, and it will become a [sword of Damocles](https://en.wikipedia.org/wiki/Sword_of_Damocles) hanging over the head of human society.  
+So **reduce social conflicts below the risk threshold as much as possible**. In the process of pursuing a happy life, don't forget to bring the bottom people, and the well-being should be attributed to all mankind.
+
+Therefore, in order to protect the fruits of unity, the living environment of all law-abiding people must be guaranteed and social conflicts must be under control.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
