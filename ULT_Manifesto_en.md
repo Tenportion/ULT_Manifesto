@@ -243,6 +243,39 @@ As long as there are more people who are determined to oppose society and humani
 So **reduce social conflicts below the risk threshold as much as possible**. In the process of pursuing a happy life, don't forget to bring the bottom people, and the well-being should be attributed to all mankind.
 
 Therefore, in order to protect the fruits of unity, the living environment of all law-abiding people must be guaranteed and social conflicts must be under control.
+### 2.2.Methods of Stability Maintenance
+#### 2.2.1.Stability Maintenance of Economy
+To maintain stability, ensure the living environment of law-abiding people.  
+To ensure the living environment of law-abiding people, mainly start with the economy.  
+Economic policies are primarily divided into planned economies and market economies.
+
+A small amount of planned economy can prevent special extreme economic risks, but there are many disadvantages when it is dominated by planned economy.  
+Modern economy involves many aspects, comprehensive planned economy will invest incalculable administrative costs, the rationality of economic planning is difficult to guarantee.  
+There is no way to guarantee that officials in charge of the planned economy will always fulfill their duty to exercise due diligence.  
+For example, they might easily be able to determine whether industry or agriculture requires more resource allocation, but expecting them to figure out which—nanoscale silicon micropowder or indium phosphide substrate material—needs more allocation is a bit of a pipe dream. Nor should one expect them to seriously examine non-utilitarian needs like hospice and memorial services for pets that benefit public happiness.  
+They will feel that their efforts are mentally and emotionally draining without yielding any tangible results; instead, arbitrarily distributing benefits or lining their own pockets is more in line with their profit-seeking and harm-avoiding instinct.  
+If the comprehensive planned economy can still maintain the good operation of society, it shows that the productive forces of society far exceed the various needs of the people.  
+But in this case, the market economy can also maintain the reasonable needs of ordinary people.
+
+In contrast, the administrative costs required for a market economy are very low.  
+Resources automatically flow to where they are most needed, where they are willing to pay the highest price.  
+Prices that are too high or too low tend to balance because of supply and demand, and the enthusiasm for wealth creation will be mobilized.  
+It is an economic policy that is easy to implement and extremely effective; [reform and opening up](https://en.wikipedia.org/wiki/Reform_and_opening_up) of China is an excellent proof.  
+However, a market economy inherently leads to the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), those who control more resources gain an advantage in production, causing the gap between the rich and the poor to widen.  
+Especially finance, unlike other industries that rely on consumption of outputs to earn income, it earns income through a proportion of principal. Ordinary people's income is not better than the interest on the savings of the rich.  
+Only measure returns from finance in decibels can place them on the same graph as the absolute returns from other industries.  
+However the gap between the rich and the poor is too large, which will make most people unable to consume, thus making it difficult for the economy to function normally.  
+Therefore, in order to protect the living environment of law-abiding people and avoid the risk of internal collapse brought about by economic crisis, we must not completely allow the market economy to develop in disorder.  
+It is necessary to make the income of the people at the bottom quite a bit higher than that needed for the normal operation of the economy, so as to maintain and promote the development of the economy and bring the whole mankind closer to a better and happy life.  
+To teach the rich that they have to make everyone has money for to spend for staying rich. Ford doubled workers' incomes, greatly boosted the economy and made it more profitable.  
+**The united unificated country should view money as a tool for harnessing those who are good at creating wealth and imbuing them with enthusiasm for creating better living conditions for all mankind.**
+
+Measures are also needed to prevent the wealth gap from exceeding an unacceptable level.  
+For example, collecting the hierarchical asset taxes. After the assets reach a certain level, it is difficult to cover the asset tax through financial income, so that the wealth of the rich will not be endless and unlimited.  
+However, the hierarchy must be structured reasonably. The tax rate for the modest rich should be very low which is better than nothing, while the tax rate for the extremely rich should ensure that three generations of their family can be rich and carefree even without any income.  
+This ensures that money is attractive enough to entice capable people to create wealth for all mankind. The purpose of the hierarchical asset taxes is not to prevent people from becoming rich, but to control the upper limit of richness.  
+This tax and other taxes can be used for secondary distribution to limit the gap between rich and poor, as well as for projects that capital generally does not want to touch, such as long-term investment projects with long payback periods and projects that yield benefits more important than financial gain.  
+This method is just one of my ideas, just a reference rather than a dogma, and I would be very happy if the rulers of the united unificated country had a better way.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
