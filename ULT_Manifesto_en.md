@@ -283,6 +283,12 @@ The more pronounced this situation is, the greater the damage it causes to the r
 For example, if by evading customs duties smugglers can easily earn in just a few months what law-abiding merchants earn over several years—and face no punishment or only a token penalty—then more and more people will turn to smuggling, making customs regulations losses for law-abiding merchants on the contrary. Merchants may be able to stick to the rules for a year or even several years, but what about ten years down the road? Almost no one can resist this temptation.  
 And illegal immigrants in the United States can get far more privileges from a Democratic government than legal immigrants and legal citizens, so compliance with the rules will be a huge loss to legal immigrants, undermine the credibility of immigration and citizenship laws.  
 And China's rampant marriage fraud problem, even if punished, only a little more than half of the bride price will be returned, only a few months can harvest tens of thousands or even hundreds of thousands, if this continues, then however good and principled a girl is, it will be difficult to resist such temptation, and finally the sanctity and credibility of marriage will disappear.
+#### 2.2.3.Guarantee Freedom of Speech
+Only by guaranteeing freedom of speech can the people's voices reach those in power, thereby controlling social conflicts.  
+Whether autocracy or democracy, guaranteeing freedom of speech can make the decision of those in power have enough reference basis.  
+Refer to [Freedom of Speech](#31freedom-of-speech) in chapter `Optimization` for specific methods.
+## 3.Optimization
+### 3.1.Freedom of Speech
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
