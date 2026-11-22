@@ -1,6 +1,6 @@
 # ULT Manifesto Preface
 [![](https://img.shields.io/badge/AI-unused-green)](#ult-manifesto-preface)
-[![](https://img.shields.io/badge/translated-31.65%25-yellow)](#ult-manifesto-preface)
+[![](https://img.shields.io/badge/translated-43.78%25-yellow)](#ult-manifesto-preface)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## Other Languages
 * [简体中文](./readme.md)
@@ -37,6 +37,7 @@ If you are one of us or interested in this theory, please don't hesitate to star
 ## Issues
 I am not from a social science background, please do not ask me according to the standards of professional researchers.  
 My writing is not good, and I lack the ability to use words and make sentences, so please forgive me.  
+I am a native Chinese speaker. And English is the only foreign language I have studied mainly. So I provide an English translation only. Furthermore, my English is not well learned, so please forgive my poor translation.  
 If you encounter any of the following, please send me an issue:
 1. Content errors need to be corrected
 2. There are concepts that are not clearly described in the book
@@ -44,6 +45,7 @@ If you encounter any of the following, please send me an issue:
 4. Making suggestions(Not limited to theory, but also writing)
 5. Content infringement
 6. Have questions about the content
+7. Inaccurate or problematic translation
 ## GitHub Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 

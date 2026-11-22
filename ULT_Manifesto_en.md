@@ -225,8 +225,91 @@ For example, if the world is roughly unified, but there are still very few count
 Or perhaps certain countries are obstructing or threatening our cause through intolerable hostile actions.
 
 The reason why unity and unification are not promoted through the [United Nations](https://en.wikipedia.org/wiki/United_Nations) is that the United Nations, like the war reflection after the war, has become weaker and weaker. The Security Council has appeared increasingly ineffective over time ,becoming a platform for the privileges of a few countries.  
-The reason why the ULT theory is still needed even though the concept of [Community of Common Destiny](https://en.wikipedia.org/wiki/Community_of_Common_Destiny) already exists is that the Community of Common Destiny merely advocates `taking into account the legitimate concerns of other countries while pursuing one’s own interests, and promoting the common development of all nations while seeking one’s own development`, It does not have the objective of unity and unification; it does not point out the devastating consequences of failing to take into account the legitimate concerns of other countries; nor does it provide a plan for establishing a system that would enforce the protection of humanity’s shared destiny.  
-Instead, nationalization of the European Union aligns more closely with the goals of the ULT theory. Furthermore, similar regional integration initiatives—such as `the United Kingdom relinquishing certain interests and unifying the Commonwealth` or `Iberia relinquishing certain interests and merging with Latin America`—can serve as steps toward unity and unification.
+The reason why the ULT theory is still needed even though the concept of [Community of Common Destiny](https://en.wikipedia.org/wiki/Community_of_Common_Destiny) already exists is that the Community of Common Destiny merely advocates `taking into account the legitimate concerns of other countries while pursuing one’s own interests, and promoting the common development of all countries while seeking one’s own development`, It does not have the objective of unity and unification; it does not point out the devastating consequences of failing to take into account the legitimate concerns of other countries; nor does it provide a plan for establishing a system that would enforce the protection of humanity’s shared destiny.  
+Instead, nationalization of the [European Union](https://en.wikipedia.org/wiki/European_Union) aligns more closely with the goals of the ULT theory. Furthermore, similar regional integration initiatives—such as `the United Kingdom relinquishing certain interests and unifying the Commonwealth` or `Iberia relinquishing certain interests and merging with Latin America`—can serve as steps toward unity and unification.
+## 2.Stability maintenance
+The boundary between stability maintenance and optimization is actually not clear. The two refer to each other.
+### 2.1.The Necessity of Stability maintenance
+Unification under a centralized government can only prevent wars between countries.  
+But throughout history, many of once-powerful regimes have not been overthrown by external enemies but from within.  
+Take the collapse of the Soviet Union for example. Surveys at the time generally concluded that the Communist Party of the Soviet Union could no longer represent the interests of the people or the workers and peasants, but instead represented the interests of the bureaucratic groups. In the late Soviet era, even honest and incorruptible officials were accused of seeking special privileges, ultimately making the blood of the revolutionary martyrs have been shed in vain.  
+Furthermore, the change of dynasties in China was often due to the serious annexation of land at the end of the dynasty. The new dynasty established by the uprising redistributed the land, so it could continue to operate.  
+To summarize this regularity: **the survival environment of the bottom people falls into an intolerable situation, which will bring about the risk of internal collapse.**
+
+In addition to the survival environment, the intensification of other social conflicts may also bring about the risk of internal collapse.  
+Those may also give rise to antisocial and anti-human individuals who don't have any ties and any concern for anything; they would destroy human society without any burden.  
+Don't underestimate ordinary people. Weak countries can acquire weapons once monopolized by powerful countries over time. Then by the same logic, the control of destructive weapons cannot be absolute.  
+As long as there are more people who are determined to oppose society and humanity, the probability that some of them can illegally acquire destructive weapons will increase, and it will become a [sword of Damocles](https://en.wikipedia.org/wiki/Sword_of_Damocles) hanging over the head of human society.  
+So **reduce social conflicts below the risk threshold as much as possible**. In the process of pursuing a happy life, don't forget to bring the bottom people, and the well-being should be attributed to all mankind.
+
+Therefore, in order to protect the fruits of unity, the living environment of all law-abiding people must be guaranteed and social conflicts must be under control.
+### 2.2.Methods of Stability Maintenance
+#### 2.2.1.Stability Maintenance of Economy
+To maintain stability, ensure the living environment of law-abiding people.  
+To ensure the living environment of law-abiding people, mainly start with the economy.  
+Economic policies are primarily divided into planned economies and market economies.
+
+A small amount of planned economy can prevent special extreme economic risks, but there are many disadvantages when it is dominated by planned economy.  
+Modern economy involves many aspects, comprehensive planned economy will invest incalculable administrative costs, the rationality of economic planning is difficult to guarantee.  
+There is no way to guarantee that officials in charge of the planned economy will always fulfill their duty to exercise due diligence.  
+For example, they might easily be able to determine whether industry or agriculture requires more resource allocation, but expecting them to figure out which—nanoscale silicon micropowder or indium phosphide substrate material—needs more allocation is a bit of a pipe dream. Nor should one expect them to seriously examine non-utilitarian needs like hospice and memorial services for pets that benefit public happiness.  
+They will feel that their efforts are mentally and emotionally draining without yielding any tangible results; instead, arbitrarily distributing benefits or lining their own pockets is more in line with their profit-seeking and harm-avoiding instinct.  
+If the comprehensive planned economy can still maintain the good operation of society, it shows that the productive forces of society far exceed the various needs of the people.  
+But in this case, the market economy can also maintain the reasonable needs of ordinary people.
+
+In contrast, the administrative costs required for a market economy are very low.  
+Resources automatically flow to where they are most needed, where they are willing to pay the highest price.  
+Prices that are too high or too low tend to balance because of supply and demand, and the enthusiasm for wealth creation will be mobilized.  
+It is an economic policy that is easy to implement and extremely effective; [reform and opening up](https://en.wikipedia.org/wiki/Reform_and_opening_up) of China is an excellent proof.  
+However, a market economy inherently leads to the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), those who control more resources gain an advantage in production, causing the gap between the rich and the poor to widen.  
+Especially finance, unlike other industries that rely on consumption of outputs to earn income, it earns income through a proportion of principal. Ordinary people's income is not better than the interest on the savings of the rich.  
+Only measure returns from finance in decibels can place them on the same graph as the absolute returns from other industries.  
+However the gap between the rich and the poor is too large, which will make most people unable to consume, thus making it difficult for the economy to function normally.  
+Therefore, in order to protect the living environment of law-abiding people and avoid the risk of internal collapse brought about by economic crisis, we must not completely allow the market economy to develop in disorder.  
+It is necessary to make the income of the people at the bottom quite a bit higher than that needed for the normal operation of the economy, so as to maintain and promote the development of the economy and bring the whole mankind closer to a better and happy life.  
+To teach the rich that they have to make everyone has money for to spend for staying rich. Ford doubled workers' incomes, greatly boosted the economy and made it more profitable.  
+**The united unified country should view money as a tool for harnessing those who are good at creating wealth and imbuing them with enthusiasm for creating better living conditions for all mankind.**
+
+Measures are also needed to prevent the wealth gap from exceeding an unacceptable level.  
+For example, collecting the hierarchical asset taxes. After the assets reach a certain level, it is difficult to cover the asset tax through financial income, so that the wealth of the rich will not be endless and unlimited.  
+However, the hierarchy must be structured reasonably. The tax rate for the modest rich should be very low which is better than nothing, while the tax rate for the extremely rich should ensure that three generations of their family can be rich and carefree even without any income.  
+This ensures that money is attractive enough to entice capable people to create wealth for all mankind. The purpose of the hierarchical asset taxes is not to prevent people from becoming rich, but to control the upper limit of richness.  
+This tax and other taxes can be used for secondary distribution to limit the gap between rich and poor, as well as for projects that capital generally does not want to touch, such as long-term investment projects with long payback periods and projects that yield benefits more important than financial gain.  
+This method is just one of my ideas, just a reference rather than a dogma, and I would be very happy if the rulers of the united unified country had a better way.
+#### 2.2.2.No Grey Laws and Policies
+Policies, laws and regulations must be strictly enforced; not to apply selectively and dishearten the people, to avoid falling into the dangerous [Tacitus Trap](https://en.wikipedia.org/wiki/Tacitus_Trap).  
+If an ambiguous gray industry, or a black industry which goes unpunished due to selective law enforcement, earns far more than a white industry, compliance is a huge loss.  
+The more pronounced this situation is, the greater the damage it causes to the rules; however strictly someone abides by the law, it is difficult *to remain unstained despite emerging from the mire*—the raging tide of the environment will sweep almost everyone off course.  
+For example, if by evading customs duties smugglers can easily earn in just a few months what law-abiding merchants earn over several years—and face no punishment or only a token penalty—then more and more people will turn to smuggling, making customs regulations losses for law-abiding merchants on the contrary. Merchants may be able to stick to the rules for a year or even several years, but what about ten years down the road? Almost no one can resist this temptation.  
+And illegal immigrants in the United States can get far more privileges from a Democratic government than legal immigrants and legal citizens, so compliance with the rules will be a huge loss to legal immigrants, undermine the credibility of immigration and citizenship laws.  
+Furthermore, China's rampant marriage fraud problem, even if punished, only a little more than half of the bride price will be returned, only a few months can harvest tens of thousands or even hundreds of thousands, if this continues, then however good and principled a girl is, it will be difficult to resist such temptation, and finally the sanctity and credibility of marriage will disappear.
+#### 2.2.3.Guarantee Freedom of Speech
+Only by guaranteeing freedom of speech can the people's voices reach those in power, thereby controlling social conflicts.  
+Whether autocracy or democracy, guaranteeing freedom of speech can make the decision of those in power have enough reference basis.  
+Refer to [Freedom of Speech](#31freedom-of-speech) in chapter `Optimization` for specific methods.
+#### 2.2.4.Eradicate Darkness and Evil
+The united unified country must root out criminal gangs and local thugs in every region; without ensuring that the public’s safety and legitimate rights and interests are protected from infringement, there can be no talk of pursuing a better life.  
+It’s not just about criminal gangs; law enforcement officers must take every report from the public seriously, and publicity should encourage people to report crimes.  
+Based on my observations of the dark side of society over the past decade or so, I have found that when people’s legitimate rights and interests are violated, in most cases they do not report the incident to the police at all but simply endure it in silence; in other cases, their reports are brushed off, or public institutions such as schools and the media go to great lengths to suppress the spread of information; only in a very small number of cases are reports actually accepted.  
+More than ten years ago, some classmates advised me not to think so much, saying `If you gaze long into an abyss, the abyss also gazes into you` and `It is difficult for ordinary people to change the world`.  
+But there must be someone who try to change the world and someone who gaze into abysses after all.  
+Otherwise, it’s like looking up at the sky while walking; just as one might fall into a well at any time, so one may be swallowed up by the darkness that expands unchecked.
+The term `darkness` below is used in a broad sense; it encompasses not only crime but also situations where people, driven by instinct, are unable to resist the enormous rewards of breaking the rules.  
+The expansion of darkness is three-dimensional, possessing both depth and breadth.  
+Its breadth is similar to the example of rule violation in chapter [2.2.2.No Grey Laws and Policies](#222no-grey-laws-and-policies). When rule-breakers succeed, others are bound to feel out of kilter and wonder: why can they do this, while I have to obey the rules, missing out on huge gains or even becoming a victim? Thus people become more likely to follow suit.  
+Its depth is that before one violates a rule, the resistance brought by psychological pressure is relatively large, and after he violates some rule once, the psychological pressure will plummet, then each violation of rules will reduce his psychological pressure and prompt him to violate bigger and more rules. `First time awkward, second time skillful`, `For someone there are only zero or countless times for one thing` illustrate this point.  
+It is clear that if darkness is not eradicated, it will cause great harm, and it spreads very easily.
+
+Regarding the eradication of darkness, I am offering one approach for consideration; if those in power within the coalition government have a better option, they need not adopt it.  
+When a country agrees to unite and join the unified country, for a not-so-short period an opportunity for pardon and bleach will be granted to pre-unification criminals and criminal gangs.  
+During this period, they can choose to fully confess to all the facts of crime and the proceeds of crime, and then, based on the specific circumstances of both, be required to pay a relatively high percentage as an `unity and unification pardon tax`.  
+This tax rate is based on 50%,the more serious the crime, the higher the coefficient. Then based on the logic of the asset tax described in chapter [2.2.1.Stability Maintenance of Economy](#221stability-maintenance-of-economy), the proceeds from the crime are hierarchize‌d, the rest can be retained as legal assets, and all crimes that have been confessed are exempted.  
+However, once this period ends, this pardon will never be reinstated, and the campaign to eradicate darkness and evil will be immediately and vigorously launched.  
+For criminals, this is a rare opportunity. Moreover, if their criminal proceeds are substantial, then `keeping a portion to ensure their own safety and continue living as a rich person` is a much more cost-effective option than `facing the risk of the eradication`; if their criminal proceeds are modest, then turning over about half to have their charges dropped is an even better choice.  
+For the victims, the united unified country will allocate the majority of the revenue from the unity and unification pardon tax to compensate them. Although this compensation will likely fall short of fully making up for the harm they have suffered. but after understanding the logic of the ULT theory, they should recognize the importance of this sacrifice for the sake of social stability in the unification.  
+This approach is expected to have an excellent effect on rapidly restoring normalcy and stability after the unification of some regions such as `Mexican society, which has been ravaged by drug cartels` and `backward regions plagued by warlords`.
+## 3.Optimization
+### 3.1.Freedom of Speech
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  

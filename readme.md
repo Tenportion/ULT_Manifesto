@@ -1,6 +1,6 @@
 # 联合同盟宣言序言
 [![](https://img.shields.io/badge/AI-unused-green)](#联合同盟宣言序言)
-[![](https://img.shields.io/badge/translated-31.65%25-yellow)](./readme_en.md)
+[![](https://img.shields.io/badge/translated-43.78%25-yellow)](./readme_en.md)
 [![](https://img.shields.io/github/issues-raw/Tenportion/ULT_Manifesto)](https://github.com/Tenportion/ULT_Manifesto/issues)
 ## 其他语言(Other Languages)
 * [English](./readme_en.md)
@@ -37,6 +37,7 @@ master分支更长时间才会更新一次，最新未确定内容请看develop�
 ## Issues(议题)
 本人非社会科学出身，请不要按照专业研究者的标准来要求我  
 本人文笔不好，遣词造句能力有所欠缺，敬请谅解  
+本人为汉语母语者，只主要学过英语这一门外语，所以只做了英文翻译。而且英语也学的不好，翻译的不好请见谅
 如果遇到一下情况，请给我提issue:
 1. 内容错误需要更正
 2. 文中有描述不清晰的概念
@@ -44,6 +45,7 @@ master分支更长时间才会更新一次，最新未确定内容请看develop�
 4. 想要提建议(不限于理论，也包括行文)
 5. 内容侵权
 6. 对于内容有疑问
+7. 翻译不准确或有问题
 ## GitHub Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Tenportion/ULT_Manifesto&type=date&legend=top-left)](https://www.star-history.com/#Tenportion/ULT_Manifesto&type=date&legend=top-left)
 
