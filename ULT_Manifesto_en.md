@@ -268,14 +268,14 @@ However the gap between the rich and the poor is too large, which will make most
 Therefore, in order to protect the living environment of law-abiding people and avoid the risk of internal collapse brought about by economic crisis, we must not completely allow the market economy to develop in disorder.  
 It is necessary to make the income of the people at the bottom quite a bit higher than that needed for the normal operation of the economy, so as to maintain and promote the development of the economy and bring the whole mankind closer to a better and happy life.  
 To teach the rich that they have to make everyone has money for to spend for staying rich. Ford doubled workers' incomes, greatly boosted the economy and made it more profitable.  
-**The united unificated country should view money as a tool for harnessing those who are good at creating wealth and imbuing them with enthusiasm for creating better living conditions for all mankind.**
+**The united unified country should view money as a tool for harnessing those who are good at creating wealth and imbuing them with enthusiasm for creating better living conditions for all mankind.**
 
 Measures are also needed to prevent the wealth gap from exceeding an unacceptable level.  
 For example, collecting the hierarchical asset taxes. After the assets reach a certain level, it is difficult to cover the asset tax through financial income, so that the wealth of the rich will not be endless and unlimited.  
 However, the hierarchy must be structured reasonably. The tax rate for the modest rich should be very low which is better than nothing, while the tax rate for the extremely rich should ensure that three generations of their family can be rich and carefree even without any income.  
 This ensures that money is attractive enough to entice capable people to create wealth for all mankind. The purpose of the hierarchical asset taxes is not to prevent people from becoming rich, but to control the upper limit of richness.  
 This tax and other taxes can be used for secondary distribution to limit the gap between rich and poor, as well as for projects that capital generally does not want to touch, such as long-term investment projects with long payback periods and projects that yield benefits more important than financial gain.  
-This method is just one of my ideas, just a reference rather than a dogma, and I would be very happy if the rulers of the united unificated country had a better way.
+This method is just one of my ideas, just a reference rather than a dogma, and I would be very happy if the rulers of the united unified country had a better way.
 #### 2.2.2.No Grey Laws and Policies
 Policies, laws and regulations must be strictly enforced; not to apply selectively and dishearten the people, to avoid falling into the dangerous [Tacitus Trap](https://en.wikipedia.org/wiki/Tacitus_Trap).  
 If an ambiguous gray industry, or a black industry which goes unpunished due to selective law enforcement, earns far more than a white industry, compliance is a huge loss.  
