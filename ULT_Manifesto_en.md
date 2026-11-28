@@ -312,6 +312,29 @@ This approach is expected to have an excellent effect on rapidly restoring norma
 The focus of optimization is to continuously improve human society, enabling more and more people to move toward a better and happier life under the premise of stability.  
 Rather than implementing some of the recommendations in this section as dogma.
 ### 3.1.Freedom of Speech
+#### 3.1.1.Why Freedom of Speech Needed
+Politicians, immersed in the sphere of political activity, inevitably develop a greater or lesser degree of path dependency regarding the political views they have long held to be correct.  
+The professional knowledge of political science that they know, like all professional knowledge, is niche knowledges that people who specialize in the small circle know.  
+It is difficult to guarantee that specialized circles will produce knowledge that is absolutely correct; they need fresh perspectives from the general public to help professional fields gain the objective insights needed to make corrections.  
+The vast majority of academic fields are open to questions and new developments raised by the general public; If it isn't accepted, it's usually because it can be refuted in theory or because there's no way to prove it.  
+However, only in the field of political science, in many places, there is a greater or less refusal to accept public questioning and development.  
+Unlike the natural sciences, the social sciences cannot be quantitatively proven through objective laws; they rely more on summarizing experience and drawing inferences.  
+Restrictions on political freedom of speech manifest differently in various countries and regions, such as through ideology, authoritarianism, and political correctness.  
+However, the impact of politics is closely tied to everyone’s personal interests, unlike the impact of most other professional fields, which the general public is free to choose.  
+For example, the general public must comply with laws and policies, while consumers are free to choose whether to use consumer products with new technologies.
+
+Therefore, political science has an even greater need for input from the public, so that the demands of all citizens regarding their legitimate interests can be fully taken into account.  
+To achieve collective public wisdom and avoid the drawbacks of niche specialized knowledge.  
+Good political views should dominate by that they are accepted and spread among the people, rather than guaranteed by rulers.
+
+Freedom of political expression has a better effect than democratic systems.  
+Whether democratic or autocracy, as long as freedom of speech is granted, rulers must consider the impact of surging public opinion even if they do not adopt it, it needs to be explained or incorporated into the basis for decision-making.  
+Yet the democratic systems that humanity have played around with for thousands of years have almost never achieved true democracy, and even cannot guarantee freedom of speech.  
+The democratic systems of ancient city-states or small regional republics ultimately basically devolved into oligarchies, with political families or entrenched aristocratic clans wielding state power.  
+However, the situation isn't much better nowadays. The electoral system requires candidates to have sufficient capital or the backing of capital to cover the costs of political campaigns, so those elected often do not represent public opinion but rather special interest groups.  
+The democracy that does not rely on votes but instead treats `people are the masters of their own country` as a different definition, where the authority to define `people`, `the enemies of people` and `being the masters` is concentrated in the hands of a few.  
+**A so-called democracy without freedom of political speech is even worse than an autocracy with freedom of political speech.**  
+Because freedom of speech takes precedence over democratic systems. And the countless hypocritical democracies are actually true autocracies that the ruling group has built a facade and remains in the fake form of democracy. These so-called democratic systems inevitably restrict political freedom of speech, so it would be better to freely and generously acknowledge autocracy, so that the people are not kept in the dark and can more easily awaken and collect public wisdom.
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
 During the Cuban Missile Crisis in the Cold War, the United States and the Soviet Union began a high-risk military confrontation.  
