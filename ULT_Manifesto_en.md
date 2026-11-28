@@ -309,6 +309,8 @@ For criminals, this is a rare opportunity. Moreover, if their criminal proceeds 
 For the victims, the united unified country will allocate the majority of the revenue from the unity and unification pardon tax to compensate them. Although this compensation will likely fall short of fully making up for the harm they have suffered. but after understanding the logic of the ULT theory, they should recognize the importance of this sacrifice for the sake of social stability in the unification.  
 This approach is expected to have an excellent effect on rapidly restoring normalcy and stability after the unification of some regions such as `Mexican society, which has been ravaged by drug cartels` and `backward regions plagued by warlords`.
 ## 3.Optimization
+The focus of optimization is to continuously improve human society, enabling more and more people to move toward a better and happier life under the premise of stability.  
+Rather than implementing some of the recommendations in this section as dogma.
 ### 3.1.Freedom of Speech
 ## Appendix A: examples
 ### A.1.Soviet Nuclear Submarine in the Cuban Missile Crisis
